@@ -1,0 +1,19 @@
+[
+  {
+    "name": "dossier",
+    "type": "ap",
+    "title" : "Dossier",
+    "eap": "OSLO-Dossier.eap",
+    "diagram": "OSLO-Dossier",
+    "template": "dossier-ap.j2",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-08-23",
+    "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Dossier",
+    "site": "site-skeleton/dossier",
+    "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-dossier/issues",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
+    "dependencies": []
+  }
+]
