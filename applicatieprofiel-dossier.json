@@ -9,6 +9,10 @@
     {
       "naam": "Applicatieprofiel Dossier",
       "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/dossier/"
+    },
+    {
+      "naam" : "Vocabularium Dossier",
+      "waarde" : "https://data.vlaanderen.be/ns/dossier/"
     }
   ],
   "documentatie": [],
